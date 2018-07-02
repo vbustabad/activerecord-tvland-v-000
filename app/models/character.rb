@@ -8,5 +8,3 @@ class Character < ActiveRecord::Base
   end
 
 end
-
-  
